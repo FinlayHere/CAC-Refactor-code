@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e66a11b4-17b0-4f5d-ae0a-06f139cf0911" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1nVTs8fmCu9jbxStaTRkhu4JJvv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.StatementPrinterTests">
+    <configuration name="StatementPrinterTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;StatementPrinterTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="StatementPrinterTests.exampleStatement" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;StatementPrinterTests.exampleStatement&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.StatementPrinterTests" />
+        <item itemvalue="Gradle.StatementPrinterTests.exampleStatement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e66a11b4-17b0-4f5d-ae0a-06f139cf0911" name="Default Changelist" comment="" />
+      <created>1611474461259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611474461259</updated>
+      <workItem from="1611474462821" duration="13358000" />
+      <workItem from="1611557005921" duration="1206000" />
+    </task>
+    <task id="LOCAL-00001" summary="[fanchao]:add getter and setter function">
+      <created>1611480226737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611480226737</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[fanchao]: rename file perf">
+      <created>1611481104745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611481104745</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[fanchao]: add interface and class for refactor calculate part">
+      <created>1611481846676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611481846676</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[fanchao]: refactor calculate code">
+      <created>1611483364704</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611483364704</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[fanchao]: refactor calculate part done">
+      <created>1611484346736</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611484346736</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[fanchao]: refactor code structure">
+      <created>1611484413944</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611484413944</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[fanchao]: add new dto line">
+      <created>1611485034016</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611485034016</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[fanchao]: add print logic">
+      <created>1611486334373</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611486334373</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[fanchao]: refactor code">
+      <created>1611486359973</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611486359973</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[fanchao]: let invoice field private">
+      <created>1611486594886</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611486594886</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[fanchao]: add CreditsCalculator">
+      <created>1611488086069</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611488086069</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[fanchao]: implement credit calculate function">
+      <created>1611488814136</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611488814136</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[fanchao]: refactor calculate">
+      <created>1611489600577</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611489600577</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[fanchao]: refactor main function">
+      <created>1611490275320</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611490275320</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[fanchao]: fix bug and pass test">
+      <created>1611491546710</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611491546710</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[fanchao]:add getter and setter function" />
+    <MESSAGE value="[fanchao]: rename file perf" />
+    <MESSAGE value="[fanchao]: add interface and class for refactor calculate part" />
+    <MESSAGE value="[fanchao]: refactor calculate code" />
+    <MESSAGE value="[fanchao]: refactor calculate part done" />
+    <MESSAGE value="[fanchao]: refactor code structure" />
+    <MESSAGE value="[fanchao]: add new dto line" />
+    <MESSAGE value="[fanchao]: add print logic" />
+    <MESSAGE value="[fanchao]: refactor code" />
+    <MESSAGE value="[fanchao]: let invoice field private" />
+    <MESSAGE value="[fanchao]: add CreditsCalculator" />
+    <MESSAGE value="[fanchao]: implement credit calculate function" />
+    <MESSAGE value="[fanchao]: refactor calculate" />
+    <MESSAGE value="[fanchao]: refactor main function" />
+    <MESSAGE value="[fanchao]: fix bug and pass test" />
+    <option name="LAST_COMMIT_MESSAGE" value="[fanchao]: fix bug and pass test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="301" key="#Project_Structure" timestamp="1611476417968">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="768" y="301" key="#Project_Structure/0.0.2560.1440/91.1440.1680.1050@0.0.2560.1440" timestamp="1611476417968" />
+    <state x="808" y="1740" key="#com.intellij.ide.util.MemberChooser" timestamp="1611488126330">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state x="1093" y="411" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440/91.1440.1680.1050@0.0.2560.1440" timestamp="1611480200176" />
+    <state x="808" y="1740" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611488126330" />
+    <state x="669" y="1719" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611489493269">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state x="669" y="1719" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611489493269" />
+    <state x="573" y="1728" key="CommitChangelistDialog2" timestamp="1611491546517">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state x="735" y="395" key="CommitChangelistDialog2/0.0.2560.1440/91.1440.1680.1050@0.0.2560.1440" timestamp="1611481104569" />
+    <state x="573" y="1728" key="CommitChangelistDialog2/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611491546517" />
+    <state x="191" y="1540" width="1480" height="850" key="DiffContextDialog" timestamp="1611488059332">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state x="191" y="1540" width="1480" height="850" key="DiffContextDialog/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611488059332" />
+    <state width="1638" height="364" key="GridCell.Tab.0.bottom" timestamp="1611491605188">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.0.bottom/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611491605188" />
+    <state width="1638" height="364" key="GridCell.Tab.0.center" timestamp="1611491605186">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.0.center/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611491605186" />
+    <state width="1638" height="364" key="GridCell.Tab.0.left" timestamp="1611491605184">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.0.left/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611491605184" />
+    <state width="1638" height="364" key="GridCell.Tab.0.right" timestamp="1611491605187">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.0.right/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611491605187" />
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom" timestamp="1611491605193">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611491605193" />
+    <state width="1638" height="364" key="GridCell.Tab.1.center" timestamp="1611491605190">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.center/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611491605190" />
+    <state width="1638" height="364" key="GridCell.Tab.1.left" timestamp="1611491605189">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.left/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611491605189" />
+    <state width="1638" height="364" key="GridCell.Tab.1.right" timestamp="1611491605192">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611491605192" />
+    <state x="506" y="1674" key="RollbackChangesDialog" timestamp="1611491393867">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state x="506" y="1674" key="RollbackChangesDialog/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611491393867" />
+    <state x="341" y="1364" key="SettingsEditor" timestamp="1611557929816">
+      <screen x="0" y="1200" width="1680" height="1050" />
+    </state>
+    <state x="341" y="1364" key="SettingsEditor/0.0.1920.1200/0.1200.1680.1050@0.1200.1680.1050" timestamp="1611557929816" />
+    <state x="531" y="1705" key="Vcs.Push.Dialog.v2" timestamp="1611491550568">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state x="531" y="1705" key="Vcs.Push.Dialog.v2/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611491550568" />
+    <state x="629" y="1597" width="604" height="735" key="find.popup" timestamp="1611490493658">
+      <screen x="91" y="1440" width="1680" height="1050" />
+    </state>
+    <state x="629" y="1597" width="604" height="735" key="find.popup/0.0.2560.1440/91.1440.1680.1050@91.1440.1680.1050" timestamp="1611490493658" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StatementPrinter.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StatementPrinter.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Calculator/PlayCalculateUtils.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
